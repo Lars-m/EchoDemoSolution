@@ -1,0 +1,10 @@
+sep 08, 2014 7:07:59 PM echoserver.EchoServer runServer
+INFO: Sever started
+sep 08, 2014 7:08:07 PM echoserver.EchoServer runServer
+INFO: Connected to a client
+sep 08, 2014 7:08:09 PM echoserver.ClientHandler run
+INFO: Received the message: WERWER 
+sep 08, 2014 7:08:09 PM echoserver.ClientHandler run
+INFO: Received the message: WERWER 
+sep 08, 2014 7:08:11 PM echoserver.ClientHandler run
+INFO: Closed a Connection
